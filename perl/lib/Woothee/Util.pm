@@ -6,7 +6,7 @@ use Carp;
 
 use Woothee::DataSet;
 
-use 5.010_000;
+use 5.008_001;
 
 our $VERSION = "0.2.4";
 

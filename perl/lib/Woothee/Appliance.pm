@@ -7,7 +7,7 @@ use Carp;
 use Woothee::Util qw/update_map update_category update_version update_os/;
 use Woothee::DataSet qw/dataset/;
 
-use 5.010_000;
+use 5.008_001;
 
 our $VERSION = "0.2.4";
 
